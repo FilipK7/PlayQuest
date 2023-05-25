@@ -1,0 +1,12 @@
+.lista-proizvoda {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.proizvod {
+  width: 200px;
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px 30px;
+}

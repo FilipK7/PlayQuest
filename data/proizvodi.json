@@ -1,0 +1,16 @@
+{
+  "drustvenaIgra": [
+    {
+      "nazivIgre": "Ne ljuti se covece",
+      "cenaIgre": 600
+    },
+    {
+      "nazivIgre": "Monopol",
+      "cenaIgre": 1200
+    },
+    {
+      "nazivIgre": "Memory game",
+      "cenaIgre": 900
+    }
+  ]
+}
